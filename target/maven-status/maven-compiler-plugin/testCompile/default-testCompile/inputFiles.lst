@@ -7,6 +7,7 @@ C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\testBase
 C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\testCases\TC001_AccountRegistrationTest.java
 C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\testCases\TC002_LoginTest.java
 C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\testCases\TC003_LoginDDT.java
+C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\testCases\TC004_LogOut.java
 C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\utilities\DataProviders.java
 C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\utilities\ExcelUtility.java
 C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\src\test\java\utilities\ExtendReportManager.java

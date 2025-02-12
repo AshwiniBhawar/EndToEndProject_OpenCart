@@ -8,7 +8,9 @@ package testCases;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
 import pageObjects.HomePage;
+import pageObjects.LogOutPage;
 import pageObjects.LoginPage;
 import pageObjects.MyAccountPage;
 import testBase.BaseClass;
@@ -36,10 +38,11 @@ public class TC003_LoginDDT extends BaseClass {
 			//myaccount
 			MyAccountPage macc = new MyAccountPage(driver);
 			boolean targetPage = macc.isMyAccountPageExists();
-
+			
+			LogOutPage  lop=  new LogOutPage(driver);
 			if (exp_result.equalsIgnoreCase("valid")) {
 				if (targetPage = true) {
-					macc.clickLogout();
+					lop.clickLogout();
 					Assert.assertTrue(true);
 				} else {
 					Assert.assertTrue(false);
@@ -49,7 +52,7 @@ public class TC003_LoginDDT extends BaseClass {
 
 			if (exp_result.equalsIgnoreCase("invalid")) {
 				if (targetPage = true) {
-					macc.clickLogout();
+					lop.clickLogout();
 					Assert.assertTrue(false);
 				} else {
 					Assert.assertTrue(true);

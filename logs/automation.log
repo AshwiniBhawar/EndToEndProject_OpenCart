@@ -1904,3 +1904,163 @@
 2025-01-25 02:07:19.249 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
 2025-01-25 02:07:19.318 [main] INFO  testCases.TC002_LoginTest -****Logout****
 2025-01-25 02:07:20.087 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 07:18:21.714 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\GridExecution.xml"
+2025-01-26 07:18:29.019 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 07:18:29.354 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 07:18:30.418 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 07:18:30.419 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 07:18:33.100 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 07:18:33.390 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 07:18:38.748 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 07:18:39.982 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 07:18:41.996 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 07:18:42.183 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 07:18:43.130 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 07:18:57.721 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 07:18:58.028 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 07:19:00.864 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 07:19:00.865 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 07:19:03.854 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 07:19:03.971 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 07:19:14.596 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 07:19:15.657 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 07:19:17.234 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 07:19:17.430 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 07:19:18.627 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 07:19:30.862 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 07:19:31.253 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 07:19:32.425 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 07:19:32.426 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 07:19:37.653 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 07:19:37.785 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 07:19:43.419 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 07:19:44.577 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 07:19:46.583 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 07:19:46.780 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 07:19:47.893 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 08:09:20.178 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\GridExecution.xml"
+2025-01-26 08:09:25.569 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:09:25.765 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:09:26.529 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:09:26.529 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:09:28.301 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:09:28.368 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:09:31.861 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:09:32.537 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:11:19.479 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\GridExecution.xml"
+2025-01-26 08:14:49.854 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:14:50.677 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:14:52.056 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 08:14:52.135 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 08:14:52.903 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 08:15:02.164 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:15:02.436 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:15:03.654 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:15:03.654 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:15:05.591 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:15:05.625 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:15:58.741 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\GridExecution.xml"
+2025-01-26 08:16:05.265 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:16:05.565 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:16:07.338 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:16:07.338 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:16:09.683 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:16:09.774 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:16:14.054 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:16:15.098 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:16:16.586 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 08:16:16.706 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 08:16:17.530 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 08:16:28.357 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:16:28.681 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:16:29.575 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:16:29.575 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:16:31.439 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:16:31.488 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:16:40.406 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:16:41.214 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:16:42.549 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 08:16:42.775 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 08:16:45.789 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 08:16:52.804 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:16:53.218 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:16:54.341 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:16:54.342 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:16:56.733 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:16:56.823 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:17:01.824 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:17:02.730 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:17:04.463 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 08:17:04.619 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 08:17:06.065 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 08:19:00.756 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\GridExecution.xml"
+2025-01-26 08:19:06.638 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:19:06.801 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:19:07.727 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:19:07.727 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:19:09.600 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:19:09.664 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:19:13.380 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:19:14.036 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:19:15.444 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 08:19:15.498 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 08:19:16.295 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 08:19:27.392 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:19:27.665 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:19:28.382 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:19:28.382 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:19:30.232 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:19:30.271 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:19:38.227 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:19:38.972 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:19:40.026 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 08:19:40.073 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 08:19:40.803 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-01-26 08:19:46.219 [main] INFO  testCases.TC001_AccountRegistrationTest -****Starting TC001_AccountRegistrationTest****
+2025-01-26 08:19:46.413 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on MyAccount link
+2025-01-26 08:19:47.192 [main] INFO  testCases.TC001_AccountRegistrationTest -Clicked on Register link
+2025-01-26 08:19:47.192 [main] INFO  testCases.TC001_AccountRegistrationTest -Providing customer details
+2025-01-26 08:19:49.041 [main] INFO  testCases.TC001_AccountRegistrationTest -Validating expected message
+2025-01-26 08:19:49.103 [main] INFO  testCases.TC001_AccountRegistrationTest -****Finished TC001_AccountRegistrationTest****
+2025-01-26 08:19:54.126 [main] INFO  testCases.TC002_LoginTest -****Starting TC002_LoginTest****
+2025-01-26 08:19:54.731 [main] INFO  testCases.TC002_LoginTest -****Enter Login Details****
+2025-01-26 08:19:55.964 [main] INFO  testCases.TC002_LoginTest -****Validate Header****
+2025-01-26 08:19:56.012 [main] INFO  testCases.TC002_LoginTest -****Logout****
+2025-01-26 08:19:56.764 [main] INFO  testCases.TC002_LoginTest -****Finished TC002_LoginTest****
+2025-02-13 04:53:18.118 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 04:53:18.405 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 04:53:31.074 [main] INFO  testCases.TC005_ChangePassword -****Starting TC005_ChangePassword****
+2025-02-13 04:53:31.819 [main] INFO  testCases.TC005_ChangePassword -****Enter Login Details****
+2025-02-13 04:53:33.252 [main] INFO  testCases.TC005_ChangePassword -****Validate Header****
+2025-02-13 04:53:33.301 [main] INFO  testCases.TC005_ChangePassword -****Change Password****
+2025-02-13 04:56:41.316 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 04:56:41.582 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 04:56:48.066 [main] INFO  testCases.TC005_ChangePassword -****Starting TC005_ChangePassword****
+2025-02-13 04:56:48.811 [main] INFO  testCases.TC005_ChangePassword -****Enter Login Details****
+2025-02-13 04:56:50.074 [main] INFO  testCases.TC005_ChangePassword -****Validate Header****
+2025-02-13 04:56:50.125 [main] INFO  testCases.TC005_ChangePassword -****Change Password****
+2025-02-13 04:58:22.504 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 04:58:22.765 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 04:58:27.829 [main] INFO  testCases.TC005_ChangePassword -****Starting TC005_ChangePassword****
+2025-02-13 04:58:28.395 [main] INFO  testCases.TC005_ChangePassword -****Enter Login Details****
+2025-02-13 04:58:29.666 [main] INFO  testCases.TC005_ChangePassword -****Validate Header****
+2025-02-13 04:58:29.727 [main] INFO  testCases.TC005_ChangePassword -****Change Password****
+2025-02-13 04:58:31.682 [main] INFO  testCases.TC005_ChangePassword -****Logout****
+2025-02-13 04:58:32.463 [main] INFO  testCases.TC005_ChangePassword -****Finished TC002_LoginTest****
+2025-02-13 05:09:05.120 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 05:09:05.371 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 05:09:12.847 [main] INFO  testCases.TC004_LogOut -****Starting TC004_LogOut****
+2025-02-13 05:09:13.594 [main] INFO  testCases.TC004_LogOut -****Enter Login Details****
+2025-02-13 05:09:15.140 [main] INFO  testCases.TC004_LogOut -****Validate Header****
+2025-02-13 05:09:15.183 [main] INFO  testCases.TC004_LogOut -****Logout****
+2025-02-13 05:09:15.948 [main] INFO  testCases.TC004_LogOut -****Validate Logout Page Title****
+2025-02-13 05:09:16.500 [main] INFO  testCases.TC004_LogOut -****Validate Homepage Title****
+2025-02-13 05:09:16.515 [main] INFO  testCases.TC004_LogOut -****Finished TC004_LogOut****
