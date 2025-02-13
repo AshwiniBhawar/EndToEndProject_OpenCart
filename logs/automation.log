@@ -2064,3 +2064,52 @@
 2025-02-13 05:09:15.948 [main] INFO  testCases.TC004_LogOut -****Validate Logout Page Title****
 2025-02-13 05:09:16.500 [main] INFO  testCases.TC004_LogOut -****Validate Homepage Title****
 2025-02-13 05:09:16.515 [main] INFO  testCases.TC004_LogOut -****Finished TC004_LogOut****
+2025-02-13 22:25:11.034 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 22:25:37.930 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 22:25:38.291 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 22:25:47.664 [main] INFO  testCases.TC006_EditPersonalDetails -****Starting TC006_EditPersonalDetails****
+2025-02-13 22:25:48.336 [main] INFO  testCases.TC006_EditPersonalDetails -****Enter Login Details****
+2025-02-13 22:25:49.592 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Page Header****
+2025-02-13 22:25:49.661 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Information Page Header****
+2025-02-13 22:29:09.040 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 22:29:09.387 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 22:29:14.809 [main] INFO  testCases.TC006_EditPersonalDetails -****Starting TC006_EditPersonalDetails****
+2025-02-13 22:29:15.539 [main] INFO  testCases.TC006_EditPersonalDetails -****Enter Login Details****
+2025-02-13 22:29:17.354 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Page Header****
+2025-02-13 22:29:17.396 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Information Page Header****
+2025-02-13 22:32:21.181 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 22:32:21.427 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 22:32:26.346 [main] INFO  testCases.TC006_EditPersonalDetails -****Starting TC006_EditPersonalDetails****
+2025-02-13 22:32:27.020 [main] INFO  testCases.TC006_EditPersonalDetails -****Enter Login Details****
+2025-02-13 22:32:28.206 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Page Header****
+2025-02-13 22:32:28.253 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Information Page Header****
+2025-02-13 22:33:36.687 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 22:33:36.922 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 22:33:42.271 [main] INFO  testCases.TC006_EditPersonalDetails -****Starting TC006_EditPersonalDetails****
+2025-02-13 22:33:42.935 [main] INFO  testCases.TC006_EditPersonalDetails -****Enter Login Details****
+2025-02-13 22:33:44.150 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Page Header****
+2025-02-13 22:33:44.194 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Information Page Header****
+2025-02-13 22:33:45.204 [main] INFO  testCases.TC006_EditPersonalDetails -****Update Account Information****
+2025-02-13 22:33:46.126 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate Message****
+2025-02-13 22:33:46.284 [main] INFO  testCases.TC006_EditPersonalDetails -****Logout****
+2025-02-13 22:33:47.014 [main] INFO  testCases.TC006_EditPersonalDetails -****Finished TC006_EditPersonalDetails****
+2025-02-13 22:34:15.827 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml"
+2025-02-13 22:34:16.069 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\ashwi\eclipse-workspace\EndToEndProject_OpenCart\Master.xml
+
+2025-02-13 22:34:20.621 [main] INFO  testCases.TC006_EditPersonalDetails -****Starting TC006_EditPersonalDetails****
+2025-02-13 22:34:21.310 [main] INFO  testCases.TC006_EditPersonalDetails -****Enter Login Details****
+2025-02-13 22:34:22.569 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Page Header****
+2025-02-13 22:34:22.620 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate MyAccount Information Page Header****
+2025-02-13 22:34:23.697 [main] INFO  testCases.TC006_EditPersonalDetails -****Update Account Information****
+2025-02-13 22:34:24.600 [main] INFO  testCases.TC006_EditPersonalDetails -****Validate Message****
+2025-02-13 22:34:24.634 [main] INFO  testCases.TC006_EditPersonalDetails -****Logout****
+2025-02-13 22:34:25.459 [main] INFO  testCases.TC006_EditPersonalDetails -****Finished TC006_EditPersonalDetails****

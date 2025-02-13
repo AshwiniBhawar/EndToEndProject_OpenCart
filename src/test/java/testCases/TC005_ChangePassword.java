@@ -27,14 +27,18 @@ public class TC005_ChangePassword extends BaseClass{
 		lp.setPassword(prop.getProperty("password"));
 		lp.clickLogin();
 		
-		logger.info("****Validate Header****");
+		logger.info("****Validate MyAccount Page Header****");
 		MyAccountPage macc= new MyAccountPage(driver);
-		boolean targetPage=macc.isMyAccountPageExists();
-		Assert.assertEquals(targetPage,true, "Login failed");
+		boolean targetPage1=macc.isMyAccountPageExists();
+		Assert.assertEquals(targetPage1,true, "Login failed");
 		
-		logger.info("****Change Password****");
+		logger.info("****Validate Change Password Page Header****");
 		ChangePasswordPage cp= new ChangePasswordPage(driver);
 		cp.clickChangePassword();
+		boolean targetPage2=macc.isMyAccountPageExists();
+		Assert.assertEquals(targetPage2,true, "Login failed");
+		
+		logger.info("****Change Password****");
 		cp.enterNewPassword(prop.getProperty("new_password"));
 		cp.confirmNewPassword(prop.getProperty("confirm_password"));
 		cp.clickSubmit();

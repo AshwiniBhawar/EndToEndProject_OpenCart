@@ -25,6 +25,9 @@ public class ChangePasswordPage extends BasePage {
 	@FindBy(xpath="//div[contains(@class,'alert-success')]")
 	WebElement validatemsg;
 	
+	@FindBy(xpath = "//h1[text()='Change Password']")
+	WebElement msgHeading;
+	
 	
 	public void clickChangePassword() {
 		linkChangePwd.click();
@@ -59,6 +62,15 @@ public class ChangePasswordPage extends BasePage {
 		}
 		catch(Exception e){
 			return e.getMessage();
+		}
+	}
+	
+	public boolean isMyAccountPageExists() {
+		try {
+		return (msgHeading.isDisplayed());
+		}
+		catch(Exception e) {
+			return false;
 		}
 	}
 	

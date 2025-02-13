@@ -8,13 +8,13 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC005_ChangePassword">
+      <class name="testCases.TC006_EditPersonalDetails">
         <methods>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="changePassword"/>
+          <include name="editAccountInformation"/>
         </methods>
-      </class> <!-- testCases.TC005_ChangePassword -->
+      </class> <!-- testCases.TC006_EditPersonalDetails -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

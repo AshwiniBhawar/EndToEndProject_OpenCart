@@ -10,11 +10,8 @@ public class MyAccountPage extends BasePage{
 		super(driver);
 	}
 
-
 	@FindBy(xpath = "//h2[text()='My Account']")
 	WebElement msgHeading;
-	
-	
 	
 	
 	public boolean isMyAccountPageExists() {
